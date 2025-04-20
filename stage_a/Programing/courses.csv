@@ -1,0 +1,407 @@
+1,Cultural anthropology,2
+2,Anthropology of development,4
+3,Anthropology of religion,3
+4,Applied anthropology,4
+5,Cognitive anthropology,4
+6,Cyborg anthropology,5
+7,Digital anthropology,3
+8,Digital culture,1
+9,Ecological anthropology,4
+10,Economic anthropology,5
+11,Environmental anthropology,2
+12,Ethnobiology,1
+13,Ethnobotany,1
+14,Ethnography,2
+15,Ethnohistory,2
+16,Ethnology,5
+17,Ethnomuseology,4
+18,Ethnomusicology,2
+19,Feminist anthropology,5
+20,Folklore,2
+21,Kinship,2
+22,Legal anthropology,2
+23,Mythology,3
+24,Missiology,5
+25,Manuscriptology,4
+26,Maritime archaeology,4
+27,Media archaeology,2
+28,Modern archaeology,2
+29,Settlement archaeology,4
+30,Music archaeology,2
+31,Osteology,3
+32,Palaeoarchaeology,1
+33,Paleoanthropology,3
+34,Paleoethnobotany,4
+35,Paleopathology,2
+36,Paleoradiology,5
+37,Taphonomy,1
+38,Urban archaeology,3
+39,Historical archaeology,5
+40,Prehistoric archaeology,4
+41,protohistoric archaeology,3
+42,Biblical archaeology,1
+43,Classical archaeology,5
+44,Egyptology,4
+45,Assyriology,3
+46,Etruscology,4
+47,Near Eastern archaeology,3
+48,Medieval archaeology,4
+49,Post-medieval archaeology,1
+50,Industrial archaeology,1
+51,Contemporary archaeology,1
+52,Asian history,2
+53,Chinese history,5
+54,Japanese history,2
+55,Korean history,3
+56,Mongolian history,2
+57,Indian history,2
+58,Turkish history,2
+59,Iranian history,2
+60,Philippine history,2
+61,Industrial production,1
+62,Industrial laws,4
+63,British history,4
+64,French history,1
+65,German history,3
+66,Dutch history,1
+67,Italian history,5
+68,Spanish history,2
+69,Portuguese history,3
+70,Polish history,5
+71,Balkan history,5
+72,Scandinavian history,2
+73,Swedish history,1
+74,Norwegian history,1
+75,Danish history,5
+76,Finnish history,2
+77,Icelandic history,2
+78,Russian history,2
+79,Australian history,2
+80,Economic history,1
+81,Environmental history,2
+82,Intellectual history,5
+83,Modern history,3
+84,Political history,4
+85,Scientific history,2
+86,Technological history,1
+87,World history,2
+88,Public history,2
+89,Natural language,3
+90,body atonomy,3
+91,Philosophy of linguistics,1
+92,Linguistic philosophy,1
+93,Philology,4
+94,Phonetics,4
+95,Phonology,4
+96,Pragmatics,1
+97,Psycholinguistics,3
+98,Semantics,5
+99,Semiotics,2
+100,Sociolinguistics,2
+101,Syntax,4
+102,Terminology science,2
+103,Philosophical traditions and schools,4
+104,Platonism,4
+105,Aristotelianism,2
+106,Analytic philosophy,5
+107,Continental philosophy,3
+108,Eastern philosophy,3
+109,Feminist philosophy,1
+110,History of philosophy,3
+111,Ancient philosophy,5
+112,Medieval philosophy,1
+113,Scholasticism,2
+114,Humanism,4
+115,Modern philosophy,4
+116,Contemporary philosophy,5
+117,Logic,1
+118,Philosophical logic,4
+119,Mathematical logic,2
+120,Applied philosophy,5
+121,Philosophy of education,4
+122,Philosophy of history,5
+123,Philosophy of religion,5
+124,Philosophy of language,4
+125,Philosophy of law,1
+126,Philosophy of mathematics,2
+127,Philosophy of music,5
+128,Philosophy of science,1
+129,Philosophy of social science,2
+130,Philosophy of physics,2
+131,Philosophy of biology,3
+132,Philosophy of chemistry,5
+133,Philosophy of economics,5
+134,Philosophy of psychology,2
+135,Philosophy of engineering,3
+136,Systems philosophy,5
+137,Acquired taste,1
+138,Aftertaste,5
+139,Appetite,1
+140,Artisanal food,2
+141,Cooking,2
+142,Cuisine,1
+143,Culinary arts,2
+144,Culinary tourism,1
+145,Delicacy,1
+146,Diet,5
+147,Flavor and taste,1
+148,Food choice,5
+149,Food pairing,2
+150,Food photography,3
+151,Food preparation,3
+152,Food presentation,3
+153,Food safety,2
+154,Food security,1
+155,Food studies,1
+156,Gastronomy,2
+157,Gourmet,4
+158,Palatability,3
+159,Specialty foods,2
+160,Traditional food,5
+161,Agricultural economics,5
+162,Anarchist economics,2
+163,Applied economics,2
+164,Behavioural economics,2
+165,Bioeconomics,2
+166,Business,1
+167,Complexity economics,4
+168,Computational economics,5
+169,Consumer economics,1
+170,Development economics,5
+171,Digital economy,5
+172,Ecological economics,5
+173,Econometrics,4
+174,Economic geography,3
+175,Economic data,3
+176,Economic sector,2
+177,Economic,5
+178,Economic systems,2
+179,Economic value,5
+180,Energy economics,4
+181,Entrepreneurial economics,2
+182,Environmental economics,5
+183,Evolutionary economics,3
+184,Experimental economics,1
+185,Feminist economics,5
+186,Financial economics,1
+187,Financial econometrics,1
+188,Green economics,4
+189,Growth economics,4
+190,Human development theory,2
+191,Abnormal psychology,3
+192,Applied psychology,3
+193,Asian psychology,1
+194,Biological psychology,1
+195,Black psychology,1
+196,Clinical psychology,1
+197,Clinical neuropsychology,2
+198,Cognitive psychology,1
+199,Community psychology,1
+200,Comparative psychology,4
+201,Conservation psychology,4
+202,Consumer psychology,5
+203,Counseling psychology,2
+204,Criminal psychology,4
+205,Cultural psychology,1
+206,Developmental psychology,3
+207,Differential psychology,1
+208,Ecological psychology,5
+209,Educational psychology,5
+210,Environmental psychology,5
+211,Evolutionary psychology,5
+212,Experimental psychology,3
+213,Group psychology,4
+214,Family psychology,5
+215,Feminine psychology,5
+216,Forensic psychology,1
+217,Forensic developmental psychology,5
+218,Health psychology,2
+219,Humanistic psychology,4
+220,Indigenous psychology,5
+221,Legal psychology,5
+222,Conflict theory,4
+223,Critical sociology,4
+224,Cultural sociology,5
+225,Cultural studies,1
+226,Criminology/Criminal justice,3
+227,Critical management studies,1
+228,Demography/Population,2
+229,Digital sociology,1
+230,Dramaturgical sociology,4
+231,Economic sociology,3
+232,Educational sociology,2
+233,Empirical sociology,3
+234,Environmental sociology,1
+235,Evolutionary sociology,2
+236,Feminist sociology,3
+237,Figurational sociology,5
+238,Futures studies,5
+239,Historical sociology,3
+240,Human ecology,3
+241,Humanistic sociology,2
+242,Industrial sociology,1
+243,Interactionism,2
+244,Internet sociology,4
+245,Interpretive sociology,5
+246,Phenomenology,2
+247,Ethnomethodology,2
+248,Symbolic interactionism,3
+249,Social constructionism,1
+250,Jealousy sociology,5
+251,Macrosociology,5
+252,Marxist sociology,1
+253,Mathematical sociology,5
+254,Medical sociology,4
+255,Mesosociology,3
+256,Microsociology,3
+257,Military sociology,5
+258,Natural resource sociology,4
+259,Organizational studies,2
+260,Phenomenological sociology,2
+261,Policy sociology,2
+262,Polish sociology,2
+263,Postcolonialism,4
+264,Psychoanalytic sociology,1
+265,Science studies,1
+266,Sexology,1
+267,Social capital,3
+268,Social change,2
+269,Social conflict theory,4
+270,Social control,4
+271,Pure sociology,5
+272,Social economy,3
+273,Social philosophy,2
+274,Social psychology,2
+275,Social policy,3
+276,Biochemistry,1
+277,Bioinformatics,4
+278,Biophysics,2
+279,Biotechnology,3
+280,Botany,4
+281,data structure,4
+282,Phycology,1
+283,Cell biology,3
+284,Chronobiology,4
+285,Cognitive biology,2
+286,Computational biology,1
+287,Conservation biology,2
+288,Cryobiology,5
+289,Developmental biology,1
+290,Embryology,1
+291,Gerontology,1
+292,Teratology,3
+293,Ecology,3
+294,Agroecology,3
+295,Ethnoecology,1
+296,Human body,2
+297,Landscape ecology,3
+298,Forensic biology,3
+299,Genetics,4
+300,Behavioural genetics,5
+301,Molecular genetics,5
+302,Population genetics,4
+303,Geobiology,1
+304,Endocrinology,2
+305,Evolution,1
+306,Systematics,5
+307,Taxonomy,5
+308,Histology,5
+309,Human biology,2
+310,Immunology,3
+311,Limnology,1
+312,Linnaean taxonomy,2
+313,Marine biology,3
+314,Mathematical biology,2
+315,Microbiology,5
+316,Molecular biology,3
+317,Mycology,5
+318,Neuroscience,4
+319,Behavioral neuroscience,1
+320,Neurophysics,3
+321,Computational Neuroscience,4
+322,Nutrition,2
+323,Paleobiology,2
+324,Paleontology,3
+325,Parasitology,5
+326,Agrochemistry,2
+327,Analytical chemistry,3
+328,Astrochemistry,4
+329,Atmospheric chemistry,4
+330,bioenformation,5
+331,Catalysts,3
+332,Chemical engineering,1
+333,Chemical biology,3
+334,Chemical physics,2
+335,Cheminformatics,3
+336,Computational chemistry,4
+337,Cosmochemistry,5
+338,Environmental chemistry,1
+339,Femtochemistry,1
+340,Flavor,4
+341,Flow chemistry,4
+342,Forensic chemistry,3
+343,Geochemistry,3
+344,Green chemistry,4
+345,Histochemistry,3
+346,Hydrogenation,3
+347,Immunochemistry,2
+348,Inorganic chemistry,2
+349,Marine chemistry,3
+350,Mathematical chemistry,3
+351,Mechanochemistry,1
+352,Medicinal chemistry,4
+353,Randomized algorithms,2
+354,Distributed algorithms,2
+355,Relational database,5
+356,Distributed database,1
+357,Object database,2
+358,Information retrieval,3
+359,Information management,4
+360,Information system,5
+361,Information technology,5
+362,Knowledge management,3
+363,Multimedia,2
+364,Sound and music computing,4
+365,Quantum information,1
+366,Theoretical computer science,1
+367,Artificial intelligence,4
+368,Cognitive science,4
+369,Automated reasoning,2
+370,Machine learning,1
+371,Artificial neural network,1
+372,Support vector machine,4
+373,Natural language processing,2
+374,Computer architecture,1
+375,Computer communications,1
+376,Information theory,4
+377,The internet,4
+378,Wireless computing,4
+379,Ubiquitous computing,2
+380,Cloud computing,5
+381,Computer program,5
+382,Computer programming,4
+383,Computer security,2
+384,Cryptanalysis,4
+385,Cryptography,5
+386,Fault-tolerant computing,1
+387,Distributed computing,5
+388,Grid computing,5
+389,Parallel computing,3
+390,High-performance computing,3
+391,Quantum computing,3
+392,Computer graphics,2
+393,Image processing,4
+394,Scientific visualization,4
+395,Software engineering,5
+396,Program semantics,1
+397,Compilers,3
+398,Programming paradigms,1
+399,Imperative programming,2
+400,Object-oriented programming,1
+401,Functional programming,4
+402,Logic programming,3
+403,Concurrent programming,4
+404,History of computer hardware,5
+405,History of computer science,2
+406,Humanistic informatics,1
+407,Community informatics,3
