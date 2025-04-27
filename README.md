@@ -17,29 +17,30 @@ The goal is to build a well-structured, normalized relational database and demon
 ## 📂 Project Structure
 
 ```
-DBProject2453/
-└── stage_a/
-    ├── createTables.sql          # Table creation statements
-    ├── insertTables.sql          # Data insertion scripts
-    ├── dropTables.sql            # Clean-up script
-    ├── selectAll.sql             # Example SELECT queries
-    ├── DataImportFiles/
-    │   └── my_student.csv        # Mock data files
-    ├── mockarooFiles/
-    │   ├── students.csv
-	│	└── students_mockaroo.png
-    ├── Programming/
-    │   ├── source.py             # Python scripts (if applicable)
-	│	├── classrooms.csv
-	│	├── courses.csv
-	│	├── departments.csv
-	│	├── enrollments.csv
-	│	├── grades.csv
-	│	└── professors.csv
-    ├── DSD.png                   # Data structure diagram
-    ├── ERD.png                   # Entity-Relationship Diagram
-	├── backup 20-04.tar
-    └── Project_Report.pdf        # Full documentation
+DBProject2453/ 
+├── README.md 				# Project overview and instructions 
+├── Project_Report.pdf 		# Full documentation 
+└── stage_a/ 
+	├── createTables.sql 	# Table creation statements 
+	├── insertTables.sql 	# Data insertion scripts 
+	├── dropTables.sql 		# Clean-up script 
+	├── selectAll.sql 		# Example SELECT queries 
+	├── DataImportFiles/ 
+	│ 	└── my_student.csv 	# Mock data files 
+	├── mockarooFiles/ 
+	│ ├── students.csv 
+	│ └── students_mockaroo.png 
+	├── Programming/ 
+	│ ├── source.py 		# Python scripts 
+	│ ├── classrooms.csv 
+	│ ├── courses.csv 
+	│ ├── departments.csv 
+	│ ├── enrollments.csv 
+	│ ├── grades.csv 
+	│ └── professors.csv 
+	├── DSD.png 			# Data structure diagram 
+	├── ERD.png 			# Entity-Relationship Diagram 
+	└── backup 20-04.tar 	# Backup file
 ```
 
 ## 🧱 Technologies Used
