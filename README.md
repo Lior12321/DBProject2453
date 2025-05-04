@@ -150,4 +150,4 @@ For a full explanation of the schema design, entity relationships, design choice
 
 ---
 
-*Created by Lior Masas as part of an academic database project.*
+*Created by Lior Masas, Yinon Solomon and Eliyahu Kopansky as part of an academic database project.*
